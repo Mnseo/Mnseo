@@ -25,6 +25,10 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
  
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mnseo&show_icons=true&theme=dracula)
+
+ 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=%20&fontSize=50&fontColor=#fff)
 
 
