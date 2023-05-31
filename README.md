@@ -27,7 +27,6 @@
  
  
  <a><img height="150px" src="https://github-readme-stats.vercel.app/api?username=Mnseo&show_icons=true&theme=dracula"/></a>
- <a><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnseo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
  
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=%20&fontSize=50&fontColor=#fff)
