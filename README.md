@@ -23,6 +23,7 @@
   ---
   
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <a><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnseo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
  
  
