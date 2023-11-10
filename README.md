@@ -1,36 +1,56 @@
 
-<div align="center">
+<div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=336af8&fontAlignY=50&fontSize=70&height=250&animation=fadeIn&desc=&descAlignY=70" width="100%">
+</div>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=%20&fontSize=50&fontColor=#fff)
+## 👨🏻‍💻 Minseo Shin 👋🏻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseoShindor&count_bg=%23FFD19F&title_bg=%23C44646&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=true)](https://hits.seeyoufarm.com)
  
- 
-<div align="center">
-  
-  
-![](https://github.com/Mnseo/Mnseo/blob/output/github-user-contribution.svg)
+### Android & Software Developer
 
-  ## Mnseo
- 
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinseoShindor&count_bg=%23FFD19F&title_bg=%23C44646&icon=dev-dot-to.svg&icon_color=%23E7E7E7&title=Welcome&edge_flat=true)](https://hits.seeyoufarm.com)
- 
+### I worked at 
+💼 **Schaeffler Korea IT & Digitalization (Seoul, Korea)**
+ <br>as a Software Engineer Intern for 6 months.
 
-<!--   
-  <a href="https://velog.io/@seondal/about"><img src="https://img.shields.io/badge/seondal.log-3DDC84?style=for-the-badge&logo=Velog&logoColor=white"/></a>  <a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/Seondalgorithm-E5511E?style=for-the-badge&logo=Tistory&logoColor=white"/></a>  -->
-  
+### My Experiences (In 2023)
+ **[Depromeet 14th]** Android Developer<br>
+         **[Samsung OpenSource Companions 4th]** Blog Channel Team<br>
+         **[Nexters 23rd]** Chief Operating Officier(COO)<br>
+         **[Nexters 22nd]** Android Developer<br>
+         **[Kustims 27th]** Education Planning Team & Android Developer 
 
-<!--   <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835"><img src="https://img.shields.io/badge/ReadMe-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/Dalchive-ffffff?style=for-the-badge&logo=notion&logoColor=black"/></a> -->
-  
-  ---
-  
+### You can contact me
+☎ **Phone :** 010-4997-6551 /
+📧 **Email :**  mnseoshin@gmail.com
 
+### My Channels
+💻 **Github :** [https://github.com/](https://github.com/Mnseo) / 📝 **Blog :** [https://velog.io/](https://velog.io/@mnseo)
+
+### Recommendation Letter
+
+✍🏻 **From Schaeffler A&P CIO :** [https://drive.google](https://drive.google.com/file/d/1JC9mkwDzPDjrmDJSrJko2WVGhC99TaYG/view?usp=sharing)
+
+<br>
+
+## 🛠️ Tech Stack 
+
+### Tools
+Git - Github,
+Zeplin - Figma
+Notion - Confluence,
+Jira - Slack,
+
+### Languages & Framework
+Java, Kotlin - Android Studio,
+JavaScript - Vue,
+C# - Unity,
+Python - Django, OpenCV
+
+
+ <br> 
  
+ ## 🧐 Stats
  
  <a><img height="150px" src="https://github-readme-stats.vercel.app/api?username=Mnseo&show_icons=true&theme=dracula"/></a>
    <a><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnseo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
- 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=%20&fontSize=50&fontColor=#fff)
 
-
-
- </div>
