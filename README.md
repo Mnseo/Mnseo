@@ -19,13 +19,7 @@
          **[Kustims 27th]** Education Planning Team & Android Developer 
 
 ### You can contact me
-☎ **Phone :** 010-4997-6551 /
 📧 **Email :**  mnseoshin@gmail.com
-
-### My Channels
-💻 **Github :** [https://github.com/](https://github.com/Mnseo) / 📝 **Blog :** [https://velog.io/](https://velog.io/@mnseo)
-
-<br>
 
 ## 🛠️ Tech Stack 
 
@@ -41,8 +35,6 @@ JavaScript - Vue,
 C# - Unity,
 Python - Django, OpenCV
 
-
- <br> 
  
  ## 🧐 Stats
  
